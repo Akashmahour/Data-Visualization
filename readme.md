@@ -11,3 +11,5 @@ https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/?ref=lbp
 https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/?ref=lbp
 
 I took help from these sourses to complete the assignment.
+
+This is showing all the defects on the car and making boundary around them.
